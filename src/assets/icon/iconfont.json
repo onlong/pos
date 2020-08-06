@@ -1,0 +1,37 @@
+{
+  "id": "1861771",
+  "name": "pos",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8102692",
+      "name": "vip",
+      "font_class": "icon-test",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5316061",
+      "name": "汉堡",
+      "font_class": "hanbao",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6997493",
+      "name": "我 的",
+      "font_class": "wodedangxuan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}
